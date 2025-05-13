@@ -33,5 +33,6 @@ public class Booleanos {
         } else {
             System.out.println("Usuario o contraseña incorrectos");
         }
+        System.out.println("Derechos reservados");
     }
 }
